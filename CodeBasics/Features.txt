@@ -1,0 +1,15 @@
+-> What are Features?
+
+    -> For Example: We are doing a Property Price Prediction Problem, this is one of the classical problems
+    -> in Machine Learning.
+    -> Here we are trying to predict Price of a home using Machine Learning based on certain factors: Area,
+    -> Facilities, How old is the home, Location.
+    -> These Factors are called Features.
+    -> These are the Factors on which the target variable such as Price is determined.
+
+    -> For Example: We are tryinmg to classify images Dogs vs Cats.
+    -> As we are walking on the road and we saw cats and dogs how can we identify this is cat or this is dogs
+    -> we do feature detection in our brains. In our brain there are Neurons and these units trying to detect 
+    -> different features like: Nose, Eyes, Ears. Based on these features we can identify either it is a Cat 
+    -> or a Dog
+    -> Any this related to images is simply solved by CNN.
