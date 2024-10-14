@@ -1,5 +1,8 @@
 -> What are Features?
 
+    -> In the context of machine learning, a feature (also known as a variable or attribute) is an individual -> measurable property of a data point that is used as input for a machine learning algorithm. 
+    -> Features can be numerical, categorical, or text-based.
+
     -> For Example: We are doing a Property Price Prediction Problem, this is one of the classical problems
     -> in Machine Learning.
     -> Here we are trying to predict Price of a home using Machine Learning based on certain factors: Area,
